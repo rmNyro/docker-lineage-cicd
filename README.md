@@ -1,4 +1,4 @@
-# docker-lineage-cicd
+# docker-lineage-cicd (fork with avb key generation)
 
 Docker microservice for LineageOS Continuous Integration and Continous Deployment
 
